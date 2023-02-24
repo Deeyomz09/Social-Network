@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb://0.0.0.0:27017/socialnetworkpractice"
+  "mongoURI": "mongodb://0.0.0.0:27017/socialnetworkpractice",
+  "jwtSecret": "supersecret"
 }
